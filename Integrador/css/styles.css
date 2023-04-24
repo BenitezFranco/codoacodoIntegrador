@@ -1,0 +1,34 @@
+.botonJS{
+    background-color: orange;
+    font-weight: bold;
+    color: black;
+}
+
+.botonReact{
+    background-color: #009c8c;
+    font-weight: bold;
+    color:white;
+}
+
+.botonNegocio{
+    background-color: gray;
+    font-weight: bold;
+    color:white
+}
+
+.botonStartUps{
+    background-color: red;
+    font-weight: bold;
+    color:white
+}
+
+.carousel-imagen{
+    filter: brightness(50%);
+}
+.carousel-caption {
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    text-align: center;
+    text-align: right;
+}
