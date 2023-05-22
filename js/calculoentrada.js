@@ -11,12 +11,12 @@ function calcularPrecioFinal() {
     console.log("desc:" + desc);
 
     // obtento el descuento que hay que realizar
-    let descTotal= (cantEnt*1000) * desc/100;
+    let descTotal= (cantEnt*200) * desc/100;
     //10 *1000 * 10/ 100=1000
     console.log("descTotal" + descTotal);
 
     // resto el descuento total del precio total
-    let precioFin=(cantEnt*1000) - descTotal;
+    let precioFin=(cantEnt*200) - descTotal;
     console.log("precioFin:" + precioFin);
 
 
